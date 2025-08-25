@@ -1,0 +1,6 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             x:Class="FireOpsMobile.MainPage">
+    <Label Text="FireOps Mobile App" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center"/>
+</ContentPage>

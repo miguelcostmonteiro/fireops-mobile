@@ -1,0 +1,16 @@
+# Build
+bin/
+obj/
+*.user
+*.vs/
+*.dbmdl
+*.suo
+*.cache
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# MacOS junk
+.DS_Store
